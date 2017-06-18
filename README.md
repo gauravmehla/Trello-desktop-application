@@ -1,13 +1,13 @@
 ![Trello](http://i.imgur.com/qi5pwR3.png)
 
 # 📝 Trello Desktop Application
-This is an Google Keep application for MACOSX. Using this you can access google keep right under from Applications or Launchpad. 
+This is an Trello application for MACOSX. Using this you can manage your trello boards right under from Applications or Launchpad. 
 
 Click [ ⬇️  here](https://github.com/gauravmehla/public/raw/master/apps/trello-desktop.dmg) to download.
 
 ## What is this thing?
 
-Google Keep is a note-taking service developed by Google. As people love to keep applications instead of browsing that site online. So i build this application using [nativefier](https://github.com/jiahaog/nativefier).
+Trello is a web-based project management application. As people love to keep applications instead of browsing that site online. So i build this application using [nativefier](https://github.com/jiahaog/nativefier).
 
 
 ## How to use it ?
